@@ -1,6 +1,6 @@
-## Study notes about React, and other front end frameworks
+## Study notes about React, and other front-end frameworks
 
-
+Before diving into learning front-end frameworks, i think its important to take time to learn basics of JavaScript (ES6+), HTML & CSS first. Especially JavaScript, it will be foundation knowledge of front-end learning.  
 
 ## React 
 
