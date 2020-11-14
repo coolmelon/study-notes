@@ -1,4 +1,4 @@
-## Study notes and resources for React, and related front-end frameworks
+## Study notes and resources for React, and other front end frameworks
 
 ### Style Guide
 
