@@ -1,5 +1,16 @@
 ## Study notes and resources for React, and other front end frameworks
 
+
+
+### React 
+
+Reference links:
+
+ * [Build your own react](https://pomb.us/build-your-own-react/) -- good website to learn concepts of React code bases.
+
+
+
+
 ### Style Guide
 
  * In my code editor VScode, I use extensions: ESlint, Prettier, JavaScript(ES6) code snippets, ES7 React/Redex/GraphQL/React-Native snippets, Reactjs code snippets , that I think helps a lot for good coding formats & practices. 
