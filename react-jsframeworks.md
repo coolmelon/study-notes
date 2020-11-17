@@ -7,7 +7,7 @@ Before diving into learning JavaScripts frameworks, i think it's important to ta
 #### Learning React
 Reference links:
 
- * [Build your own react](https://pomb.us/build-your-own-react/) -- good website to learn concepts of React code bases.
+ * Good website to learn concepts of React code bases: [Build your own react](https://pomb.us/build-your-own-react/)  
 
 #### Style Guide
 
@@ -15,4 +15,4 @@ Reference links:
 
 Reference links:
 
- * [Airbnb React Style Guide](https://github.com/lin-123/javascript/tree/master/react) 
+ * [Airbnb React Style Guide on Youtube](https://github.com/lin-123/javascript/tree/master/react) 
